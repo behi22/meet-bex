@@ -1,10 +1,10 @@
 # Meet Bex
 
-Bex is a voice AI host for a showroom screen. You say "Hey Bex" and just talk to her. She answers out loud, and while she talks she puts things on the screen: live answers, the weather, pictures she makes on the spot, websites she writes while you watch, even a working AI receptionist she builds for your business and then calls to test.
+Bex is a voice AI host for a showroom screen. You say "Hey Bex" and just talk to her. She answers out loud, and while she talks she puts it all on the screen: research with sources, the weather and where you are, pictures she makes on the spot, drawings and websites she writes while you watch, games your drawing stars in that you steer with your voice, and even a working AI receptionist she builds for your business, then puts you through to or calls to test. When you say goodbye, a QR code takes everything you made home on your phone.
 
 https://github.com/user-attachments/assets/864b018f-c171-47c4-897d-45bcad086b5f
 
-**[Watch the full demo (7 min, with captions)](https://behi22.github.io/meet-bex/)**
+**[Watch the full demo (7 min)](https://behi22.github.io/meet-bex/)**
 
 ## Why I built it
 

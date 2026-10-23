@@ -1,0 +1,2 @@
+# The repo holds no source code (Bex's code is private), so the watch page shouldn't show up as the project's language.
+*.html linguist-documentation
