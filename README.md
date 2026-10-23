@@ -25,7 +25,7 @@ I built Bex on my own, in my own time, on a regular Alebex developer account. It
 
 | Writing a website live | Everything she can do | An agent she built |
 |---|---|---|
-| ![A website being written live](images/creating.webp) | ![The booklet](images/booklet.webp) | ![An AI receptionist card](images/agent.webp) |
+| ![A coffee shop website being written live](assets/website-full.webp) | ![The booklet](assets/booklet.webp) | ![Ava, a booking agent Bex built, with Bex listening](assets/agent-full.webp) |
 
 ## In the full demo
 
