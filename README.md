@@ -4,7 +4,7 @@ Bex is a voice AI host for a showroom screen. You say "Hey Bex" and just talk to
 
 https://github.com/user-attachments/assets/864b018f-c171-47c4-897d-45bcad086b5f
 
-**[Watch the full demo (7 min)](https://behi22.github.io/meet-bex/)**
+**[Watch the full demo (7 min)](https://behi22.github.io/meet-bex/)** · [See the LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7519617961960046593/)
 
 ## Why I built it
 

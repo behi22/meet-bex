@@ -8,14 +8,14 @@
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://behi22.github.io/meet-bex/">
 <meta property="og:title" content="Meet Bex">
-<meta property="og:description" content="A voice AI host that talks, creates and builds other AI agents live. Watch the full demo.">
+<meta property="og:description" content="A voice AI host that talks, creates and builds other AI agents live. Built solo on the Alebex voice engine. Watch the full demo.">
 <meta property="og:image" content="https://behi22.github.io/meet-bex/assets/share.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Meet Bex, a live voice AI demo, with Bex's listening orb">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Meet Bex">
-<meta name="twitter:description" content="A voice AI host that talks, creates and builds other AI agents live. Watch the full demo.">
+<meta name="twitter:description" content="A voice AI host that talks, creates and builds other AI agents live. Built solo on the Alebex voice engine. Watch the full demo.">
 <meta name="twitter:image" content="https://behi22.github.io/meet-bex/assets/share.jpg">
 <meta name="theme-color" content="#050c22">
 <link rel="icon" href="assets/favicon-32.png" sizes="32x32" type="image/png">
@@ -81,6 +81,8 @@
   .meta { display: flex; flex-wrap: wrap; gap: 8px 22px; margin-top: 30px; color: var(--mu2); font-size: 14px; font-weight: 500; }
   .meta span { display: inline-flex; align-items: center; gap: 8px; }
   .meta span::before { content: ""; width: 5px; height: 5px; border-radius: 50%; background: var(--ac2); opacity: .8; }
+  .meta a { color: var(--ac); }
+  .meta a:hover, .meta a:focus-visible { text-decoration: underline; text-underline-offset: 3px; }
   .orb { position: relative; justify-self: center; display: flex; flex-direction: column; align-items: center; gap: 6px; width: min(460px, 100%); }
   .orb::before { content: ""; position: absolute; left: 22%; right: 22%; top: 12%; aspect-ratio: 1; border-radius: 50%;
                  background: radial-gradient(circle, rgba(46, 242, 196, .14), transparent 70%); filter: blur(26px); }
@@ -248,7 +250,7 @@
         <a class="btn" href="https://github.com/behi22/meet-bex">Read the write-up
           <svg class="i" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
       </div>
-      <div class="meta"><span>7-minute demo</span><span>Built solo</span><span>Alebex voice engine</span></div>
+      <div class="meta"><span>7-minute demo</span><span>Built solo</span><span>Alebex voice engine</span><span><a href="https://www.linkedin.com/feed/update/urn:li:activity:7519617961960046593/">See the LinkedIn post</a></span></div>
     </div>
     <div class="orb">
       <video id="orb" autoplay muted loop playsinline disablepictureinpicture preload="auto" poster="assets/orb-listening-poster.jpg" aria-hidden="true">
